@@ -18,12 +18,21 @@ The various features of the cleaned dataset are explained below:
 
 The aim of our study is to answer the below research questions:
 1). Availability of tickets
+
 2). Maximum and Minimum price of different airlines ?
+
 3). Price variation wrt days left to travel
+
 4).Which date must be chosen based on the ticket fare?
+
 5). Total flights travelling in a given time of day( for example morning-->evening)
+
 6). Number of flights based on the number of stops
+
 7). Minimum Price Variation of each airline(with forecast of min price in future)
+
 8). Variation in the average ticket  price in the Economy and Business class?
+
 9). Checking Flights across with different stops and timings under different airlines
+
 10). Ticket Pricing System
