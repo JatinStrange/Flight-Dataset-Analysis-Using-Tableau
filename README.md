@@ -17,6 +17,7 @@ The various features of the cleaned dataset are explained below:
 11) Price: Target variable stores information of the ticket price
 
 The aim of our study is to answer the below research questions:
+
 1). Availability of tickets
 
 2). Maximum and Minimum price of different airlines ?
