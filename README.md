@@ -1,9 +1,12 @@
 # Flight-Dataset-Analysis-Using-Tableau
 DATASET
+
 Dataset contains information about flight booking options from the website Easemytrip for flight travel between India's top 6 metro cities. There are 300261 datapoints and 11 features in the cleaned dataset.
 
 FEATURES
+
 The various features of the cleaned dataset are explained below:
+
 1) Airline: The name of the airline company is stored in the airline column. It is a categorical feature having 6 different airlines.
 2) Flight: Flight stores information regarding the plane's flight code. It is a categorical feature.
 3) Source City: City from which the flight takes off. It is a categorical feature having 6 unique cities.
